@@ -24,12 +24,12 @@ Key Features
     
 5.	CRUD Operations
 
-    o	Managing Products: Provide forms to insert, update, and delete product information.
+    o	Managing Products: Product forms to insert, update, and delete product information.
     
-    o	Managing Categories: Implement functionality to insert, update, and delete product categories.
+    o	Managing Categories: Implemented functionality to insert, update, and delete product categories.
     
-    o	Managing Customers: Enable customer management with forms to insert, update, and delete customer details.
+    o	Managing Customers: Customer management with forms to insert, update, and delete customer details.
     
     o	Managing Users: Create and manage user accounts with insert, update, and delete functionalities.
     
-    o	Managing Orders: Facilitate order management through forms to insert, update, and delete orders.
+    o	Managing Orders: Order management through forms to insert, update, and delete orders.
